@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+    float a,b;
+    scanf("%f",&a,b);
+    a=2 sqrt (3)*a*a;
+    printf("enter a sides of orlahedrom;",'%f,a');
+    
+    }
+    
